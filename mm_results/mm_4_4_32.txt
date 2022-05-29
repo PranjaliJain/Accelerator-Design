@@ -1,0 +1,14 @@
+Input matrices: 
+ [[1, 2, 1, 2], [3, 4, 1, 2], [1, 2, 1, 2], [3, 4, 1, 2]] [[2, 4, 1, 2], [8, 10, 1, 2], [2, 4, 1, 2], [8, 10, 1, 2]]
+Output matrices: 
+ [[36, 48, 6, 12], [56, 76, 10, 20], [36, 48, 6, 12], [56, 76, 10, 20]]
+Synthesizing....
+Max frequency:  {71.13109104424007}  MhZ
+Max timing delay:  {13675.549999999983}  ps
+Logic area est: {6.355160064}
+
+
+Optimizing....
+Max frequency:  {71.4223984927018}  MhZ
+Max timing delay:  {13618.209999999981}  ps
+Logic area est: {6.247828224}
